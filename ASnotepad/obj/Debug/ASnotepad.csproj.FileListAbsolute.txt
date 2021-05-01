@@ -1,0 +1,10 @@
+C:\Users\654\source\repos\ASnotepad\ASnotepad\bin\Debug\ASnotepad.exe.config
+C:\Users\654\source\repos\ASnotepad\ASnotepad\bin\Debug\ASnotepad.exe
+C:\Users\654\source\repos\ASnotepad\ASnotepad\bin\Debug\ASnotepad.pdb
+C:\Users\654\source\repos\ASnotepad\ASnotepad\obj\Debug\ASnotepad.csprojAssemblyReference.cache
+C:\Users\654\source\repos\ASnotepad\ASnotepad\obj\Debug\ASnotepad.Form1.resources
+C:\Users\654\source\repos\ASnotepad\ASnotepad\obj\Debug\ASnotepad.Properties.Resources.resources
+C:\Users\654\source\repos\ASnotepad\ASnotepad\obj\Debug\ASnotepad.csproj.GenerateResource.cache
+C:\Users\654\source\repos\ASnotepad\ASnotepad\obj\Debug\ASnotepad.csproj.CoreCompileInputs.cache
+C:\Users\654\source\repos\ASnotepad\ASnotepad\obj\Debug\ASnotepad.exe
+C:\Users\654\source\repos\ASnotepad\ASnotepad\obj\Debug\ASnotepad.pdb
